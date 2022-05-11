@@ -1,0 +1,4 @@
+@EndUserText.label: 'Incidents'
+define service ZSW_SRVD_Incident {
+  expose ZSW_I_IncidentTP as Incident;
+}

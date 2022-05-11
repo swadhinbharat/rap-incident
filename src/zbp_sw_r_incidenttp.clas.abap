@@ -1,0 +1,5 @@
+CLASS zbp_sw_r_incidenttp DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zsw_r_incidenttp.
+ENDCLASS.
+
+CLASS zbp_sw_r_incidenttp IMPLEMENTATION.
+ENDCLASS.
